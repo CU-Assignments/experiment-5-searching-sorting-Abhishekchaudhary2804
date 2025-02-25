@@ -13,4 +13,8 @@
 10. Search a 2D Matrix II	--	https://leetcode.com/problems/search-a-2d-matrix-ii/
 11. Wiggle Sort 2	--	https://leetcode.com/problems/wiggle-sort-2/
 12. Kth smallest element in a sorted matrix	--	https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
-13. Median of Two Sorted Arrays	--	https://leetcode.com/problems/median-of-two-sorted-arrays/
+13. Median of Two Sorted Arrays	--	https://leetcode.com/problems/median-of-two-sorted-arrays/![Screenshot 2025-02-25 130503](https://github.com/user-attachments/assets/6e![Screenshot 2025-02-25 130353](https://github.com/user-attachments/assets/a6b1bcd8-9914-478a-b89f-22b8c34a2509)
+11bd6c-7281-4baa-8ed1-946379e75144)
+![Screenshot 2025-02-25 131139](https://github.com/user-attachments/assets/053664b2-de3d-499d-aad0-c9a1d05cdde0)
+![Screenshot 2025-02-25 130825](https://github.com/user-attachments/assets/e0da8978-2837-4295-8246-16ecb4b69266)
+
